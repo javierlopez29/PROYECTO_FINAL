@@ -141,10 +141,9 @@ Contenido del archivo:
 langchain==0.1.20
 langchain-community==0.0.38
 langchain-core==0.1.53
-streamlit
 pandas==2.2.2
 PyPDF2
-python-dotenv
+streamlit
 ```
 
 ---
